@@ -1,8 +1,5 @@
+Laboratorio por:
 Maria Fernanda Gongora Mercado
 
-Laboratorio:
-Variables y tipos de datos.
-Funciones.
-Condicionales (if/else).
-Bucles (for, while).
-Arrays y métodos básicos.
+Att: Hola profe no pude terminar el Laboratorio es muuuuuuuuuuy largo :C
+Att2: Igual los ejercicios que si hice estan bien y cumplen con todo :DDD
